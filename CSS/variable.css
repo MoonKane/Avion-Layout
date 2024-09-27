@@ -1,0 +1,9 @@
+:root {
+
+    --main-color: #2A254B;
+
+    --headerIcon-font: 16px;
+    --header-height: 132px;
+    --header-halfHeight: calc(var(--header-height)/2);
+
+}
